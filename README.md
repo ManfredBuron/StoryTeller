@@ -2,7 +2,7 @@
 Bonjour, voici une petite présentation de ce qu'est Memento.
 Tout d'abord, il s'agit d'un jeu développé en 49h dans le cadre de la game jam Gamesicaen organisé en 2020. Le thème était : Inversion.
 Notre équipe, les "Ctrl+C Ctrl+V = Jeu" se compose de : 
-- Maxenxe MORIN (https://github.com/Lumaxy)
+- Maxence MORIN (https://github.com/Lumaxy)
 - Manfred BURON (https://github.com/ManfredBuron)
 
 Vous pouvez jouer au jeu à cette adresse :
@@ -24,7 +24,7 @@ En prenant son temps, c'est aussi simple que cela. Le jeu vous présente les dif
 Hello, here a small presentation of what is Memento
 First of all, It's a game developed in 49h for a game jam called Gamesicaen in 2020. The theme was: Inversion
 Our team, the "Ctrl+C Ctrl+V = Jeu" is composed of: 
-- Maxenxe MORIN (https://github.com/Lumaxy)
+- Maxence MORIN (https://github.com/Lumaxy)
 - Manfred BURON (https://github.com/ManfredBuron)
 
 You can play the game here :
